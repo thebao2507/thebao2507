@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LE THE BAO</h1>
+<h1 align="center">Hi 👋, I'm THE BAO</h1>
 <h3 align="center">I am fullstack developer</h3>
 
 - 🌱 I’m currently learning **SAP ABAP**
