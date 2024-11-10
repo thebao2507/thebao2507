@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SAP ABAP**
 
-- 💬 Ask me about **REACT JS**
+- 💬 Ask me about **REACT JS - SPRING BOOT**
 
 - 📫 How to reach me **lethebao2507@gmail.com**
 
