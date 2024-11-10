@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THE BAO</h1>
-<h3 align="center">I am fullstack developer</h3>
+<h3 align="center">I am fullstack developer senior</h3>
 
-- 🌱 I’m currently learning **SAP ABAP**
+- 🌱 I’m currently developer **SAP ABAP ERP**
 
 - 💬 Ask me about **REACT JS - SPRING BOOT**
 
